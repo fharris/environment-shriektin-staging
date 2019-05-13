@@ -5,6 +5,9 @@ dependencies:
 - name: de
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.5
+- name: de2
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.2
 - name: demo02
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.5
